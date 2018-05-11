@@ -6,6 +6,6 @@ Repository for practicing algorithm
 
 ## Solved Problems
 
-### 백준(BAEKJOON Online Judge: https://www.acmicpc.net)
+### 백준(BAEKJOON Online Judge : https://www.acmicpc.net)
 
-* 1012: 유기농 배추 / https://www.acmicpc.net/problem/1012
+* 1012 : 유기농 배추 / https://www.acmicpc.net/problem/1012
