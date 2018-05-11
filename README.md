@@ -12,6 +12,6 @@ Repository for practicing algorithm
 
 ## Solved Problems
 
-### 백준(BAEKJOON Online Judge : https://www.acmicpc.net)
+### [백준](https://www.acmicpc.net, "백준")(BAEKJOON Online Judge)
 
-* 1012(유기농 배추) : [문제](https://www.acmicpc.net/problem/1012, "문제") ,
+* 1012(유기농 배추) : [문제](https://www.acmicpc.net/problem/1012, "문제") , [풀이](https://github.com/wallees/algorithm_practice/blob/master/Baekjoon_1012.cpp , "풀이")
