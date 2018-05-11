@@ -14,4 +14,4 @@ Repository for practicing algorithm
 
 ### 백준(BAEKJOON Online Judge) : https://www.acmicpc.net
 
-* [1012(유기농 배추)](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp) : https://www.acmicpc.net/problem/1012
+* [1012](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp) / 유기농 배추 : https://www.acmicpc.net/problem/1012
