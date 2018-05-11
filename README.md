@@ -3,7 +3,7 @@ Repository for practicing algorithm
 
 개인적으로 알고리즘 풀이를 공부하고, 결과물을 공유하는 곳입니다.
 
-더욱 '간결'하고 '클린'하고 '최적화'된 코드를 작성하기 위 노력합니다.
+더욱 '간결'하고 '클린'하고 '최적화'된 코드를 작성하기 위해 노력합니다.
 
 *Trying to make simple, Clean and Optimized Codes*
 
