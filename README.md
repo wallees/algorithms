@@ -15,3 +15,9 @@ Repository for practicing algorithm problems
 ### 백준(BAEKJOON Online Judge) : https://www.acmicpc.net
 
 * [1012](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp) / 유기농 배추 : https://www.acmicpc.net/problem/1012
+
+* [2839](https://github.com/wallees/algorithm_practice/blob/master/bj_2839.cpp) / 설탕 배달 : https://www.acmicpc.net/problem/2839
+
+* 1012 / 유기농 배추 : [문제](https://www.acmicpc.net/problem/1012) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp)
+
+* 2839 / 설탕 배달 : [문제](https://www.acmicpc.net/problem/2839) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2839.cpp)
