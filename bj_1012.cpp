@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/1012
+/* 백준 1012, 유기농 배추 : https://www.acmicpc.net/problem/1012 */
 
 #include <iostream>
 #include <vector>
