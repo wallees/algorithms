@@ -16,7 +16,7 @@ Repository for practicing algorithm problems
 
 * 1012 / 유기농 배추 : [문제](https://www.acmicpc.net/problem/1012) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp)
 
-* 2178 / 미로 탐색 : [문제](https://www.acmicpc.net/problem/2178) | [DFS 풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2178_DFS.cpp)
+* 2178 / 미로 탐색 : [문제](https://www.acmicpc.net/problem/2178) | [DFS 풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2178_DFS.cpp) , [BFS 풀이] (https://github.com/wallees/algorithm_practice/blob/master/bj_2178_BFS.cpp)
 
 * 2839 / 설탕 배달 : [문제](https://www.acmicpc.net/problem/2839) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2839.cpp)
 
