@@ -1,8 +1,4 @@
 # algorithms
-Repository for practicing algorithm problems
-
-개인적으로 알고리즘 풀이를 공부하고, 결과물을 공유하는 곳입니다.
-
 
 ## Solved Problems
 
