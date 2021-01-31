@@ -8,8 +8,12 @@
 
 ### Golang
 
+<<<<<<< HEAD
 - [코딩테스트 연습 - 모의고사 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42840)| [풀이](golang/p42840.go) 
 - [코딩테스트 연습 - K번째수 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42748) | [풀이](golang/p42748.go)
+=======
+- 프로그래머스 42840 / 모의고사 : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [풀이](golang/p42840.go) 
+>>>>>>> dc72746de387f0e8387319c710f4bcac05b1d6d2
 
 
 
