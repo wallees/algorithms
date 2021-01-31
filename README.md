@@ -8,7 +8,7 @@
 
 ### Golang
 
-- 프로그래머스 42840/모의고사: [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [풀이](golang/p42840.go) 
+- 프로그래머스 42840 / 모의고사 : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [풀이](golang/p42840.go) 
 
 
 
