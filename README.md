@@ -12,6 +12,8 @@
 
 - [코딩테스트 연습 - K번째수 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42748) | [풀이](golang/p42748.go)
 
+- [코딩테스트 연습 - 가운데 글자 가져오기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12903) | [풀이](golang/p12903.go)
+
   
 
 <br/>
