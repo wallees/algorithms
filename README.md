@@ -2,10 +2,6 @@
 
 ## Solved Problems
 
-
-
-<br/>
-
 ### Golang
 
 - [코딩테스트 연습 - 모의고사 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42840)| [풀이](golang/p42840.go)
