@@ -9,7 +9,8 @@
 - [코딩테스트 연습 - 가운데 글자 가져오기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12903) | [풀이](golang/p12903.go)
 - [코딩테스트 연습 - 두 정수 사이의 합 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12912) | [풀이](golang/p12912.go) 
 - [코딩테스트 연습 - 문자열 내림차순으로 배치하기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12917?language=go) | [풀이](golang/p12917.go) 
-- [코딩테스트 연습 - 2016년 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12901?language=go) | [풀이](golang/p12901.go)
+- [코딩테스트 연습 - 2016년 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12901?language=go) | [풀이](golang/p12901.go) 
+- [코딩테스트 연습 - 나누어 떨어지는 숫자 배열 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12910) | [풀이](golang/p12910.go) 
 
 <br/>
 
