@@ -18,14 +18,8 @@
 
 ### Cpp
 
-* 백준 1012 / 유기농 배추 : [문제](https://www.acmicpc.net/problem/1012) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_1012.cpp)
-
-* 백준 2178 / 미로 탐색 : [문제](https://www.acmicpc.net/problem/2178) | [DFS 풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2178_DFS.cpp) , [BFS 풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2178_BFS.cpp)
-
-* 백준 2455 / 지능형 기차 : [문제](https://www.acmicpc.net/problem/2455) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2455.cpp)
-
-* 백준 2839 / 설탕 배달 : [문제](https://www.acmicpc.net/problem/2839) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2839.cpp)
-
-* 백준 2869 / 달팽이는 올라가고 싶다 : [문제](https://www.acmicpc.net/problem/2869) | [풀이](https://github.com/wallees/algorithm_practice/blob/master/bj_2869.cpp)
-
-
+- [1012번: 유기농 배추 (acmicpc.net)](https://www.acmicpc.net/problem/1012) | [풀이](cpp/bj1012.cpp) 
+- [2178번: 미로 탐색 (acmicpc.net)](https://www.acmicpc.net/problem/2178) | [풀이(DFS)](cpp/bj_2178_DFS.cpp) , [풀이(BFS)](cpp/bj_2178_BFS.cpp) 
+- [2455번: 지능형 기차 (acmicpc.net)](https://www.acmicpc.net/problem/2455) | [풀이](cpp/bj_2455.cpp) 
+- [2839번: 설탕 배달 (acmicpc.net)](https://www.acmicpc.net/problem/2839) | [풀이](cpp/bj_2839.cpp) 
+- [2869번: 달팽이는 올라가고 싶다 (acmicpc.net)](https://www.acmicpc.net/problem/2869) | [풀이](cpp/bj_2869.cpp) 
