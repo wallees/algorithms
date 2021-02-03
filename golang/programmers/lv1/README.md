@@ -17,5 +17,8 @@
 - [코딩테스트 연습 - 수박수박수박수박수박수? | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12922) | [풀이](p12922.go) 
 - [코딩테스트 연습 - 서울에서 김서방 찾기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12919) | [풀이](p12919.go) 
 - [코딩테스트 연습 - 문자열 다루기 기본 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12918) | [풀이](p12918.go) 
-- 
+- [코딩테스트 연습 - 이상한 문자 만들기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12930) | [풀이](p12930.go) 
+- [코딩테스트 연습 - 자릿수 더하기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12931) | [풀이](p12931.go) 
+- [코딩테스트 연습 - 자연수 뒤집어 배열로 만들기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12932) | [풀이](p12932.go) 
+- [코딩테스트 연습 - 정수 내림차순으로 배치하기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12933) | [풀이](p12933.go)
 
