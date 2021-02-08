@@ -4,6 +4,7 @@
 
 - [코딩테스트 연습 - 제일 작은 수 제거하기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12935?language=go) | [풀이](p12935.go) 
   - [Sorting 참고](http://pyrasis.com/book/GoForTheReallyImpatient/Unit54) , [슬라이스 복사 참고](https://ponyozzang.tistory.com/459) 
+- [코딩테스트 연습 - 체육복 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/course s/30/lessons/42862) | [풀이](p42862.go) 
 - [코딩테스트 연습 - 모의고사 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42840)| [풀이](p42840.go) 
 - [코딩테스트 연습 - K번째수 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/42748) | [풀이](p42748.go)
 - [코딩테스트 연습 - 가운데 글자 가져오기 | 프로그래머스 (programmers.co.kr)](https://programmers.co.kr/learn/courses/30/lessons/12903) | [풀이](p12903.go)
