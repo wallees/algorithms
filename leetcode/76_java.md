@@ -1,4 +1,4 @@
-# 1022. Sum of Root To Leaf Binary Numbers
+# 76. Minimum Window Substring
 
 ## Summary
 🙇‍♂️ URL : https://leetcode.com/problems/minimum-window-substring/  
