@@ -27,6 +27,9 @@
 - 1750  | 😓 | Minimum Length of String After Deleting Similar Ends | [Java](https://github.com/wnjoon/algorithms/blob/master/leetcode/1750_java.md)
 - 1814  | 😓 | Count Nice Pairs in an Array | [Java](https://github.com/wnjoon/algorithms/blob/master/leetcode/1814_java.md)
 
+## CTCI(Cracking The Coding Interview)
+- Ch9     | 배열과 문자열 | 1.7 | [Java](ctci/c9_1_7.md)
+
 ## [Programmers](programmers/README.md)
 > Descrption with Markdown : 🗒
 
