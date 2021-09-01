@@ -1,6 +1,6 @@
 # Programmers
 
-> Level1 : 🤪  
+> Level1 : 🤪
 > Level2 : 😜
 > Level3 : 😅
 > Level4 : 😭
@@ -30,5 +30,3 @@
 - [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | 🤪 | [Go](p12934.go) 
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=go) | 🤪 | [Go](p12947.go) 
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=go) | 🤪 | [Go](p12943.go) 
--  
-
