@@ -2,7 +2,7 @@
 
 ## Summary
 🙇‍♂️ URL : https://leetcode.com/problems/longest-palindromic-substring/  
-🤷‍♂️ Difficulty: Easy  
+🤷‍♂️ Difficulty: Medium  
 💆‍♂️ Submissions
 - RunTime:  116 ms, faster than 35.20% of Go online submissions for Longest Palindromic Substring
 - Memory Usage: 2.8 MB, less than 69.65% of Go online submissions for Longest Palindromic Substring   
