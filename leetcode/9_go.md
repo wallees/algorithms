@@ -2,7 +2,7 @@
 
 ## Summary
 🙇‍♂️ URL : https://leetcode.com/problems/palindrome-number/  
-🤷‍♂️ Difficulty: Medium  
+🤷‍♂️ Difficulty: Easy  
 💆‍♂️ Submissions
 - RunTime:  16 ms, faster than 58.54% of Go online submissions for Palindrome Number
 - Memory Usage: 5.2 MB, less than 55.13% of Go online submissions for Palindrome Number   
