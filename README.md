@@ -1,7 +1,5 @@
 # Algorithms
 
-<br>
-
 ## [Leetcode](https://github.com/wnjoon/algorithms/tree/master/leetcode)
 > Easy : 😎
 > Medium : 😓
