@@ -31,7 +31,7 @@
 ## [Programmers](programmers/README.md)
 > Descrption with Markdown : 🗒
 
-- 1844 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [Java](p1844.md) | 🗒
+- 1844 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [Java](programmers/p1844.md) | 🗒
 - 12901 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=go) | [Go](p12901.go) 
 - 12903 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [Go](p12903.go)
 - 12910 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [Go](p12910.go) 
