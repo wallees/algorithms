@@ -68,7 +68,7 @@
 
 ## [Baekjoon](baekjoon/README.md)
 - 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [cpp](baekjoon/bj_1012.cpp)
-- 1931 | [회의시 배정](https://www.acmicpc.net/problem/1931) | [java](baekjoon/bj_1931.md)
+- 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [java](baekjoon/bj_1931.md)
 - 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | [cpp(BFS)](baekjoon/bj_2178_BFS.cpp) , [cpp(DFS)](baekjoon/bj_2178_DFS.cpp)
 - 2455 | [지능형 기차](https://www.acmicpc.net/problem/2455) | [cpp](baekjoon/bj_2455.cpp)
 - 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/bj_2839.cpp)
