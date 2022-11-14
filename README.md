@@ -1,10 +1,8 @@
 # Algorithms
 
 ## [Leetcode](https://github.com/wnjoon/algorithms/tree/master/leetcode)
-> All Descrptions are written in Markdown 
-> Easy : 😎
-> Medium : 😓
-> Hard : 🤬
+> All Descrptions are written in Markdown <br>
+> Easy : 😎 , Medium : 😓 , Hard : 🤬
 
 - 2     | 😓 | Add Two Numbers | [Java](https://github.com/wnjoon/algorithms/blob/master/leetcode/2_java.md)
 - 5     | 😓 | Longest Palindromic Substring | [Go](https://github.com/wnjoon/algorithms/blob/master/leetcode/5_go.md)
