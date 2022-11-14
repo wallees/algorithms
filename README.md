@@ -1,6 +1,7 @@
 # Algorithms
 
 ## [Leetcode](https://github.com/wnjoon/algorithms/tree/master/leetcode)
+> All Descrptions are written in Markdown 
 > Easy : 😎
 > Medium : 😓
 > Hard : 🤬
