@@ -1,5 +1,5 @@
-// 문제 : ./problem/dieselmania.crypto
-// 암호 : dieselmania
+// 3번 연속으로 값이 올라가면 매수, 3번 연속으로 값이 내려가면 매도
+// 마지막 날에는 무조건 매도
 
 public class App {
 
